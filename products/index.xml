@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>产品 on 嗨饭娱乐</title>
-    <link>https://www.havefunentertain.com/products.html</link>
+    <link>http://www.havefunentertain.com/products.html</link>
     <description>Recent content in 产品 on 嗨饭娱乐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="https://www.havefunentertain.com/products/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.havefunentertain.com/products/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
