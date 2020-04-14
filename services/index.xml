@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>服务 on 嗨饭娱乐</title>
-    <link>http://www.havefunentertain.com/services.html</link>
+    <link>http://www.havefunentertain.com/services/</link>
     <description>Recent content in 服务 on 嗨饭娱乐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
@@ -13,10 +13,10 @@
     
     <item>
       <title>影视剧植入</title>
-      <link>http://www.havefunentertain.com/services/product-placement.html</link>
+      <link>http://www.havefunentertain.com/services/product-placement/</link>
       <pubDate>Sun, 05 Apr 2020 09:36:09 +0000</pubDate>
       
-      <guid>http://www.havefunentertain.com/services/product-placement.html</guid>
+      <guid>http://www.havefunentertain.com/services/product-placement/</guid>
       <description>国产剧/综艺
 韩剧/韩综
 美剧/好莱坞电影</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>明星合作</title>
-      <link>http://www.havefunentertain.com/services/stars.html</link>
+      <link>http://www.havefunentertain.com/services/stars/</link>
       <pubDate>Sun, 05 Apr 2020 09:36:10 +0000</pubDate>
       
-      <guid>http://www.havefunentertain.com/services/stars.html</guid>
+      <guid>http://www.havefunentertain.com/services/stars/</guid>
       <description>代言
 商务活动
 艺人周边开发</description>
@@ -35,19 +35,19 @@
     
     <item>
       <title>版权/IP</title>
-      <link>http://www.havefunentertain.com/services/ip.html</link>
+      <link>http://www.havefunentertain.com/services/ip/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>http://www.havefunentertain.com/services/ip.html</guid>
+      <guid>http://www.havefunentertain.com/services/ip/</guid>
       <description>海外影视剧版权代理 海外音乐版权代理 动漫IP授权</description>
     </item>
     
     <item>
       <title>电子刊</title>
-      <link>http://www.havefunentertain.com/services/emagzine.html</link>
+      <link>http://www.havefunentertain.com/services/emagzine/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>http://www.havefunentertain.com/services/emagzine.html</guid>
+      <guid>http://www.havefunentertain.com/services/emagzine/</guid>
       <description>定制小程序开发
 杂志电子刊开发
 明星写真集电子版开发
